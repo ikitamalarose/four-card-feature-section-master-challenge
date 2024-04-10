@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [See the repository](https://github.com/ikitamalarose/four-card-feature-section-master-challenge.git)
+- Live Site URL: [Go to the site](https://four-card-feature-section-master-challenge-omega.vercel.app/)
 
 ## My process
 
