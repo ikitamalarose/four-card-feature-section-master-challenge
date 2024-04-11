@@ -161,6 +161,7 @@ body {
         height: 13.875rem;
         padding: 1.75rem;
         border-radius: 5px;
+        box-shadow: 5px 8px 10px  3px rgba(7, 32, 35, 0.1);
     }
 
     .card__description {
@@ -193,6 +194,7 @@ body {
         height: 15.625rem;
         padding: 2rem;
         border-radius: 5px;
+        box-shadow: 5px 8px 10px  3px rgba(7, 32, 35, 0.1);
     }
 
     .container__card-cyan {
